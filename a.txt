@@ -1,3 +1,4 @@
 test1
 line from master
+line from branch2
 line from win
